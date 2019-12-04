@@ -27,8 +27,8 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "^10.5.32",
-		"@ctx-core/html": "^6.1.18",
-		"@ctx-core/store": "^12.1.6",
+		"@ctx-core/html": "^6.1.19",
+		"@ctx-core/store": "^12.1.7",
 		"svelte": "^3.16.0"
 	},
 	"devDependencies": {
