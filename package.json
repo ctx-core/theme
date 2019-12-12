@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "1.2.27",
+	"version": "1.2.28",
 	"description": "ctx-core theme support",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
@@ -27,8 +27,8 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "^10.5.35",
-		"@ctx-core/html": "^6.1.22",
-		"@ctx-core/store": "^12.1.10",
+		"@ctx-core/html": "^6.1.23",
+		"@ctx-core/store": "^12.1.11",
 		"svelte": "^3.16.4"
 	},
 	"devDependencies": {
