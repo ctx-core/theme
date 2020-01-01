@@ -29,7 +29,7 @@
 		"@ctx-core/function": "^10.5.36",
 		"@ctx-core/html": "^6.1.32",
 		"@ctx-core/store": "^12.3.3",
-		"svelte": "^3.16.5"
+		"svelte": "^3.16.7"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.4"
