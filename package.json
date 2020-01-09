@@ -26,9 +26,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^10.5.37",
-		"@ctx-core/html": "^6.1.38",
-		"@ctx-core/store": "^13.1.0",
+		"@ctx-core/function": "^10.5.38",
+		"@ctx-core/html": "^6.1.39",
+		"@ctx-core/store": "^13.1.1",
 		"svelte": "^3.16.7"
 	},
 	"devDependencies": {
