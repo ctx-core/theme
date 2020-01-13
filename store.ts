@@ -25,3 +25,4 @@ export const b__class__theme__invert = _b('__class__theme__invert', ctx=>
 		b__theme__invert(ctx),
 		theme__invert=>
 			_class({ theme__invert })))
+export const __class__theme__invert = b__class__theme__invert()
