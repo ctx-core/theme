@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "1.3.76",
+	"version": "1.3.77",
 	"description": "ctx-core theme support",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -31,7 +31,7 @@
 	"dependencies": {
 		"@ctx-core/function": "^13.1.0",
 		"@ctx-core/html": "^6.1.95",
-		"@ctx-core/store": "^15.0.2",
+		"@ctx-core/store": "^15.0.3",
 		"svelte": "^3.24.0"
 	},
 	"devDependencies": {
