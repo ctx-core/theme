@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^13.2.4",
+		"@ctx-core/function": "^14.0.0",
 		"@ctx-core/html": "^6.1.117",
 		"@ctx-core/store": "^16.2.2",
 		"svelte": "^3.24.1"
