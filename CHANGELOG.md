@@ -1,6 +1,17 @@
 # @ctx-core/theme
 
+## 1.3.116
+
+### Patch Changes
+
+- fix: npm run compile: path to tsc
+- Updated dependencies [undefined]
+  - @ctx-core/function@15.0.1
+  - @ctx-core/html@6.1.125
+  - @ctx-core/store@16.2.11
+
 ## 1.3.115
+
 ### Patch Changes
 
 - typescript updates
