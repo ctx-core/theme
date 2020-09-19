@@ -1,5 +1,19 @@
 # @ctx-core/theme
 
+## 2.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.0.0
+  - @ctx-core/html@7.0.0
+  - @ctx-core/object@12.0.0
+  - @ctx-core/store@17.0.0
+
 ## 1.3.116
 
 ### Patch Changes
