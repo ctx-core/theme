@@ -1,43 +1,42 @@
 {
-  "name": "@ctx-core/theme",
-  "version": "2.0.1",
-  "description": "ctx-core theme support",
-  "keywords": [
-    "ctx-core",
-    "time"
-  ],
-  "homepage": "https://github.com/ctx-core/theme#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/theme/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/theme/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "index.js",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "@ctx-core/function": "workspace:*",
-    "@ctx-core/html": "workspace:*",
-    "@ctx-core/object": "workspace:*",
-    "@ctx-core/store": "workspace:*",
-    "svelte": "~3.25.1"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "2df95096b65813d2f78d4315f4b3e4a5d62d9626"
+	"name": "@ctx-core/theme",
+	"version": "2.0.1",
+	"description": "ctx-core theme support",
+	"keywords": [
+		"ctx-core",
+		"time"
+	],
+	"homepage": "https://github.com/ctx-core/theme#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/theme/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/theme/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "index.js",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"@ctx-core/function": "workspace:*",
+		"@ctx-core/html": "workspace:*",
+		"@ctx-core/object": "workspace:*",
+		"@ctx-core/store": "workspace:*",
+		"svelte": "~3.25.1"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
