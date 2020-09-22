@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 2.0.12
+
+### Patch Changes
+
+- svelte: ~3.25.1 -> 3.26.0
+- Updated dependencies [undefined]
+  - @ctx-core/store@17.1.3
+  - @ctx-core/html@7.0.4
+
 ## 2.0.11
 
 ### Patch Changes
