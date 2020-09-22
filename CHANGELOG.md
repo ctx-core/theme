@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 2.0.13
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.4
+  - @ctx-core/html@7.0.5
+  - @ctx-core/store@17.1.4
+
 ## 2.0.12
 
 ### Patch Changes
