@@ -1,5 +1,12 @@
 # @ctx-core/theme
 
+## 2.0.26
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/store@18.1.5
+
 ## 2.0.25
 
 ### Patch Changes
