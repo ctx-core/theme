@@ -8,7 +8,7 @@ export interface type__theme__invert extends Writable<$type__theme__invert> {
 }
 export const b__theme__invert = _b<type__theme__invert>('__theme__invert', ()=>{
 	const __theme__invert = writable(false) as type__theme__invert
-	return assign<type__theme__invert>(__theme__invert, {
+	return assign(__theme__invert, {
 		invert__theme,
 	})
 	function invert__theme() {
