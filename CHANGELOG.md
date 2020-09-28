@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 2.0.42
+
+### Patch Changes
+
+- fix: @ctx-core/store version dependency
+
 ## 2.0.41
 
 ### Patch Changes
