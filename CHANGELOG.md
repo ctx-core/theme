@@ -1,5 +1,15 @@
 # @ctx-core/theme
 
+## 2.0.44
+
+### Patch Changes
+
+- fix: tsc build issues
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/store@23.0.3
+  - @ctx-core/html@7.0.19
+
 ## 2.0.43
 
 ### Patch Changes
