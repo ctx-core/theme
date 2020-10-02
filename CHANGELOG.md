@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 2.0.46
+
+### Patch Changes
+
+- flash updates
+
 ## 2.0.45
 
 ### Patch Changes
