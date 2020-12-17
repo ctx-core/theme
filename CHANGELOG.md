@@ -1,5 +1,18 @@
 # @ctx-core/theme
 
+## 2.1.6
+
+### Patch Changes
+
+- invert_theme_b: infer type
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.4
+  - @ctx-core/function@16.1.5
+  - @ctx-core/store@23.1.8
+  - @ctx-core/html@7.1.8
+
 ## 2.1.5
 
 ### Patch Changes
