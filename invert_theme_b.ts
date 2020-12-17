@@ -5,7 +5,7 @@ export const invert_theme_b = _b<invert_theme_type>('invert_theme', ()=>{
 	return assign(invert_theme, {
 		toggle_invert_theme,
 		invert__theme: toggle_invert_theme,
-	})
+	}) as invert_theme_type
 	function toggle_invert_theme() {
 		invert_theme.update($invert_theme=>!$invert_theme)
 	}
