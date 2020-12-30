@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "2.1.19",
+	"version": "2.1.20",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -28,9 +28,9 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "workspace:^16.8.1",
-		"@ctx-core/html": "workspace:^7.1.21",
-		"@ctx-core/object": "workspace:^15.0.16",
-		"@ctx-core/store": "workspace:^23.1.21",
+		"@ctx-core/html": "workspace:^7.1.22",
+		"@ctx-core/object": "workspace:^16.0.0",
+		"@ctx-core/store": "workspace:^23.1.22",
 		"svelte": "3.31.0"
 	},
 	"devDependencies": {
