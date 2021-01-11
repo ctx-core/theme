@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 2.1.30
+
+### Patch Changes
+
+- @ctx-core/store@23.3.2
+
 ## 2.1.29
 
 ### Patch Changes
