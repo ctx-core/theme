@@ -1,5 +1,13 @@
 # @ctx-core/theme
 
+## 3.0.74
+
+### Patch Changes
+
+- svelte: 3.38.1 -> 3.38.2
+- Updated dependencies [undefined]
+  - @ctx-core/store@24.7.12
+
 ## 3.0.73
 
 ### Patch Changes
