@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 3.0.81
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.0.80
 
 ### Patch Changes
