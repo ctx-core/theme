@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 3.2.0
+
+### Minor Changes
+
+- - theme_Ctx
+
 ## 3.1.7
 
 ### Patch Changes

@@ -1,10 +1,8 @@
 import { _b, assign } from '@ctx-core/object'
 import { Writable, writable } from '@ctx-core/store'
+import type { theme_Ctx } from './theme_Ctx'
 const key = 'invert_theme'
-export interface invert_theme_Ctx {
-	invert_theme?:invert_theme_T
-}
-export const invert_theme_b = _b<invert_theme_Ctx, typeof key>(key, ()=>{
+export const invert_theme_b = _b<theme_Ctx, typeof key>(key, ()=>{
 	const invert_theme = writable(false) as invert_theme_T
 	return assign(invert_theme, {
 		toggle_invert_theme,
