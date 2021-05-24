@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 3.3.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.10.1
+  - @ctx-core/html@8.2.1
+  - @ctx-core/object@18.1.1
+  - @ctx-core/store@24.9.1
+
 ## 3.3.0
 
 ### Minor Changes
