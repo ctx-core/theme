@@ -1,5 +1,19 @@
 # @ctx-core/theme
 
+## 3.3.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.10.0
+  - @ctx-core/html@8.2.0
+  - @ctx-core/object@18.1.0
+  - @ctx-core/store@24.9.0
+
 ## 3.2.3
 
 ### Patch Changes
