@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 3.4.3
+
+### Patch Changes
+
+- fix: \_h_b_h: return value
+
 ## 3.4.2
 
 ### Patch Changes
