@@ -1,6 +1,3 @@
-import type { invert_theme_T } from './invert_theme_b'
-import type { invert_theme_class_T } from './invert_theme_class_b'
-export interface theme_Ctx {
-	invert_theme?:invert_theme_T
-	invert_theme_class?:invert_theme_class_T
+import type { theme_ctx_I } from './theme_ctx_I.generated'
+export interface theme_Ctx extends theme_ctx_I {
 }

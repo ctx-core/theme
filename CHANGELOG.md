@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 3.4.2
+
+### Patch Changes
+
+- - theme_b_h_b
+
 ## 3.4.1
 
 ### Patch Changes
