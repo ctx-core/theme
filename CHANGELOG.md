@@ -1,5 +1,21 @@
 # @ctx-core/theme
 
+## 4.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@18.0.0
+  - @ctx-core/html@9.0.0
+  - @ctx-core/object@19.0.0
+  - @ctx-core/store@25.0.0
+
 ## 3.4.4
 
 ### Patch Changes
