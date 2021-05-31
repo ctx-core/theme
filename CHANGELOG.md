@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 4.0.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.0.1
+  - @ctx-core/store@25.0.2
+
 ## 4.0.0
 
 ### Major Changes
