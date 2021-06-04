@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 4.0.8
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.7
 
 ### Patch Changes
