@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 4.0.11
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/html@9.0.1
+  - @ctx-core/store@25.1.6
+
 ## 4.0.10
 
 ### Patch Changes
