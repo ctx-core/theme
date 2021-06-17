@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 5.0.3
+
+### Patch Changes
+
+- typescript: ^4.3.2 -> ^4.3.3
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.1
+  - @ctx-core/html@10.0.1
+  - @ctx-core/object@20.0.2
+  - @ctx-core/store@26.0.3
+
 ## 5.0.2
 
 ### Patch Changes
