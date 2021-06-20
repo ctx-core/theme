@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 5.0.5
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.3
+  - @ctx-core/html@10.0.3
+  - @ctx-core/object@20.0.4
+  - @ctx-core/store@26.0.5
+
 ## 5.0.4
 
 ### Patch Changes
