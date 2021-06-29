@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 5.0.22
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.21
 
 ### Patch Changes
