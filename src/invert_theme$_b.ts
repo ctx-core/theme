@@ -13,7 +13,6 @@ export const invert_theme$_b:B<theme_Ctx, typeof key> = be_(key, ()=>{
 	}
 })
 export { invert_theme$_b as b__theme__invert }
-export type invert_theme_T = boolean
-export interface invert_theme$_T extends Writable<invert_theme_T> {
+export interface invert_theme$_T extends Writable<boolean> {
 	invert_theme:()=>void
 }
