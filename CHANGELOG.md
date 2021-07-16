@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 6.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.6
+  - @ctx-core/html@11.0.7
+  - @ctx-core/object@21.0.6
+  - @ctx-core/store@27.0.5
+
 ## 6.0.5
 
 ### Patch Changes
