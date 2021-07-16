@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 6.0.8
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.8
+  - @ctx-core/html@11.0.9
+  - @ctx-core/object@21.0.8
+  - @ctx-core/store@27.0.7
+
 ## 6.0.7
 
 ### Patch Changes
