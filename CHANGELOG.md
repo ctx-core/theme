@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 6.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.5
+  - @ctx-core/html@11.0.6
+  - @ctx-core/object@21.0.5
+  - @ctx-core/store@27.0.4
+
 ## 6.0.4
 
 ### Patch Changes
