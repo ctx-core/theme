@@ -1,5 +1,27 @@
 # @ctx-core/theme
 
+## 6.0.10
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.10
+  - @ctx-core/html@11.0.11
+  - @ctx-core/object@21.0.10
+  - @ctx-core/store@27.0.9
+
+## 6.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.9
+  - @ctx-core/html@11.0.10
+  - @ctx-core/object@21.0.9
+  - @ctx-core/store@27.0.8
+
 ## 6.0.8
 
 ### Patch Changes
