@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 6.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.7
+  - @ctx-core/html@11.0.8
+  - @ctx-core/object@21.0.7
+  - @ctx-core/store@27.0.6
+
 ## 6.0.6
 
 ### Patch Changes
