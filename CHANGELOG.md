@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 6.0.15
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.14
 
 ### Patch Changes
