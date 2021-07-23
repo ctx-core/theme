@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 6.0.18
+
+### Patch Changes
+
+- fix: \*\_ctx_I.generated
+
 ## 6.0.17
 
 ### Patch Changes
