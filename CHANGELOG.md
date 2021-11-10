@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 6.0.44
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/function@20.2.3
+  - @ctx-core/html@11.0.19
+  - @ctx-core/object@21.0.22
+  - @ctx-core/store@27.0.36
+
 ## 6.0.43
 
 ### Patch Changes
