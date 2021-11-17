@@ -1,6 +1,6 @@
 import { be_, assign, B } from '@ctx-core/object'
 import { Writable, writable } from '@ctx-core/store'
-import type { theme_Ctx } from './theme_Ctx'
+import type { theme_Ctx } from './theme_Ctx.js'
 const key = 'invert_theme$'
 export const invert_theme$_b:B<theme_Ctx, typeof key> = be_(key, ()=>{
 	const invert_theme = writable(false) as invert_theme$_T
