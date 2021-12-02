@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 6.0.49
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+  - @ctx-core/function@20.2.8
+  - @ctx-core/html@11.0.24
+  - @ctx-core/object@21.0.27
+  - @ctx-core/store@27.0.41
+
 ## 6.0.48
 
 ### Patch Changes
