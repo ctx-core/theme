@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 6.0.53
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/html@11.0.28
+  - @ctx-core/store@27.0.45
+
 ## 6.0.52
 
 ### Patch Changes
