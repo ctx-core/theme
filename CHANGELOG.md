@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 7.0.5
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/function@20.2.16
+  - @ctx-core/html@11.0.33
+  - @ctx-core/object@22.0.4
+  - @ctx-core/store@27.0.51
+
 ## 7.0.4
 
 ### Patch Changes
