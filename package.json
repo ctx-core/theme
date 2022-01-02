@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "8.0.5",
+	"version": "8.0.6",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 	"scripts": {
 		"build": "npm run compile",
 		"clean": "rimraf lib && npm run clean:tsbuildinfo",
-		"clean:tsbuildinfo": "rm -f tsconfig.tsbuildinfo && rm -f lib/**/*.d.ts",
+		"clean:tsbuildinfo": "rimraf tsconfig.tsbuildinfo && rimraf lib/**/*.d.ts",
 		"compile": "npm run compile:source && npm run compile:declaration",
 		"compile:source": "swc src --out-dir lib --copy-files --source-maps --config-file .swcrc",
 		"compile:declaration": "npm run clean:tsbuildinfo && tsc --declaration --emitDeclarationOnly --declarationDir lib",
@@ -35,9 +35,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.2.20",
-		"@ctx-core/html": "workspace:^11.0.37",
-		"@ctx-core/nanostores": "workspace:^0.3.0",
+		"@ctx-core/function": "workspace:^20.2.21",
+		"@ctx-core/html": "workspace:^11.0.38",
+		"@ctx-core/nanostores": "workspace:^0.3.1",
 		"@ctx-core/object": "workspace:^22.0.8"
 	},
 	"devDependencies": {
