@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "8.0.15",
+	"version": "8.0.16",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 	"dependencies": {
 		"@ctx-core/function": "workspace:^20.4.0",
 		"@ctx-core/html": "workspace:^11.0.41",
-		"@ctx-core/nanostores": "workspace:^0.4.2",
+		"@ctx-core/nanostores": "workspace:^0.5.0",
 		"@ctx-core/object": "workspace:^22.0.13"
 	},
 	"devDependencies": {
