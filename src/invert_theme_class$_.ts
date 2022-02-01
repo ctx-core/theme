@@ -2,8 +2,7 @@ import { class_ } from '@ctx-core/html'
 import { computed$, ReadableAtom$ } from '@ctx-core/nanostores'
 import { B, be_ } from '@ctx-core/object'
 import { invert_theme$_ } from './invert_theme$_.js'
-const key = 'invert_theme_class$'
-export const invert_theme_class$_:B<invert_theme_class$_T> = be_(key, ctx=>
+export const invert_theme_class$_:B<invert_theme_class$_T> = be_('invert_theme_class$', ctx=>
 	computed$(
 		invert_theme$_(ctx),
 		invert_theme=>
