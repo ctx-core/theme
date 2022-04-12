@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "9.0.16",
+	"version": "9.0.17",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -33,10 +33,10 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.6.1",
-		"@ctx-core/html": "workspace:^11.0.44",
-		"@ctx-core/nanostores": "workspace:^1.0.11",
-		"@ctx-core/object": "workspace:^22.1.4"
+		"@ctx-core/function": "^20.6.1",
+		"@ctx-core/html": "^11.0.45",
+		"@ctx-core/nanostores": "^1.0.12",
+		"@ctx-core/object": "^22.1.5"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
