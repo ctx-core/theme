@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 9.1.0
+
+### Minor Changes
+
+- \__ suffix aliased by \$_
+
 ## 9.0.30
 
 ### Patch Changes
