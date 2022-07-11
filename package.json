@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "9.1.0",
+	"version": "9.1.1",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -35,12 +35,12 @@
 	"dependencies": {
 		"@ctx-core/function": "^20.8.1",
 		"@ctx-core/html": "^11.0.50",
-		"@ctx-core/nanostores": "^1.4.1",
+		"@ctx-core/nanostores": "^1.4.2",
 		"@ctx-core/object": "^22.2.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.211",
+		"@swc/core": "^1.2.212",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
