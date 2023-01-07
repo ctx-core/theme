@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "9.2.6",
+	"version": "9.2.7",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -33,9 +33,9 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "^21.6.0",
-		"@ctx-core/html": "^11.0.55",
-		"@ctx-core/nanostores": "^2.2.8",
-		"@ctx-core/object": "^22.9.0"
+		"@ctx-core/html": "^11.0.56",
+		"@ctx-core/nanostores": "^2.2.9",
+		"@ctx-core/object": "^22.9.1"
 	},
 	"devDependencies": {
 		"c8": "^7.12.0",
