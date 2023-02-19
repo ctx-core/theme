@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 9.2.33
+
+### Patch Changes
+
+- @ctx-core/html: ^11.1.4 -> ^11.1.5
+
 ## 9.2.32
 
 ### Patch Changes
