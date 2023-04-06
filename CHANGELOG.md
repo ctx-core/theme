@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 9.2.71
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^3.1.21 -> ^3.2.0
+
 ## 9.2.70
 
 ### Patch Changes
