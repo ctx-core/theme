@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 9.2.119
+
+### Patch Changes
+
+- @ctx-core/object: ^28.0.0 -> ^28.0.1
+- Updated dependencies
+  - @ctx-core/html@11.3.10
+  - @ctx-core/nanostores@4.2.6
+
 ## 9.2.118
 
 ### Patch Changes
