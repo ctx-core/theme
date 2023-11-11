@@ -1,5 +1,28 @@
 # @ctx-core/theme
 
+## 9.3.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/function@21.21.0
+  - @ctx-core/html@11.6.0
+  - @ctx-core/nanostores@7.1.0
+  - @ctx-core/object@30.1.0
+
 ## 9.2.160
 
 ### Patch Changes
