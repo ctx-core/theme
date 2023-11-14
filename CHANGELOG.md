@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 9.3.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/function@21.21.2
+  - @ctx-core/html@11.6.2
+  - @ctx-core/nanostores@7.1.3
+  - @ctx-core/object@30.1.2
+
 ## 9.3.1
 
 ### Patch Changes
