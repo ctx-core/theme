@@ -1,5 +1,14 @@
 # @ctx-core/theme
 
+## 9.3.14
+
+### Patch Changes
+
+- @ctx-core/html: ^11.6.12 -> ^11.6.13
+- @ctx-core/function: ^21.22.8 -> ^21.22.9
+- @ctx-core/nanostores: ^7.1.14 -> ^7.1.15
+- @ctx-core/object: ^30.4.5 -> ^30.4.6
+
 ## 9.3.13
 
 ### Patch Changes
