@@ -1,5 +1,13 @@
 # @ctx-core/theme
 
+## 10.0.1
+
+### Patch Changes
+
+- fix: be*computed_pair* instances
+- Updated dependencies
+  - @ctx-core/nanostores@9.0.1
+
 ## 10.0.0
 
 ### Major Changes
