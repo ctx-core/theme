@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 10.0.0
+
+### Major Changes
+
+- invert*theme$*: - .toggle_invert_theme,.invert_theme
+
+### Minor Changes
+
+- - invert*theme_class*
+- - invert*theme\_\_toggle,invert_theme*,invert_theme\_\_set
+
 ## 9.3.18
 
 ### Patch Changes
