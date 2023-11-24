@@ -1,5 +1,16 @@
 # @ctx-core/theme
 
+## 10.0.10
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+- Updated dependencies
+  - @ctx-core/function@21.22.20
+  - @ctx-core/html@11.6.24
+  - @ctx-core/nanostores@9.0.10
+  - @ctx-core/object@31.1.6
+
 ## 10.0.9
 
 ### Patch Changes
