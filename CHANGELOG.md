@@ -1,5 +1,17 @@
 # @ctx-core/theme
 
+## 10.0.23
+
+### Patch Changes
+
+- @ctx-core/object: ^31.1.17 -> ^31.1.18
+- @ctx-core/html: ^11.6.35 -> ^11.6.36
+- @ctx-core/function: ^21.22.31 -> ^21.22.32
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/nanostores@9.0.23
+
 ## 10.0.22
 
 ### Patch Changes
