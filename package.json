@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "10.0.36",
+	"version": "10.0.37",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -39,10 +39,10 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^21.24.0",
-		"@ctx-core/html": "^11.6.49",
-		"@ctx-core/nanostores": "^9.0.32",
-		"@ctx-core/object": "^31.1.27"
+		"@ctx-core/function": "^21.24.1",
+		"@ctx-core/html": "^11.6.50",
+		"@ctx-core/nanostores": "^9.0.33",
+		"@ctx-core/object": "^31.1.28"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
