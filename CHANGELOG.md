@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 10.0.47
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 10.0.46
 
 ### Patch Changes
