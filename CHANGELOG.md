@@ -1,5 +1,13 @@
 # @ctx-core/theme
 
+## 10.0.56
+
+### Patch Changes
+
+- ctx-core: ^5.4.0 -> ^5.4.1
+- Updated dependencies
+  - @ctx-core/nanostores@10.0.12
+
 ## 10.0.55
 
 ### Patch Changes
