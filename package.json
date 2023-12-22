@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/theme",
-	"version": "10.0.54",
+	"version": "10.0.55",
 	"description": "ctx-core theme support",
 	"keywords": [
 		"ctx-core",
@@ -39,8 +39,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^10.0.10",
-		"ctx-core": "^5.3.1"
+		"@ctx-core/nanostores": "^10.0.11",
+		"ctx-core": "^5.4.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
