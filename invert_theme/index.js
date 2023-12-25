@@ -1,9 +1,9 @@
-import { be_atom_triple_ } from '@ctx-core/nanostores'
+import { be_sig_triple_ } from 'ctx-core/rmemo'
 export const [
 	invert_theme$_,
 	invert_theme_,
 	invert_theme__set,
-] = be_atom_triple_(()=>
+] = be_sig_triple_(()=>
 	false,
 { id: 'invert_theme' })
 export { invert_theme$_ as invert_theme__ }
