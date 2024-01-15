@@ -1,5 +1,11 @@
 # @ctx-core/theme
 
+## 10.0.78
+
+### Patch Changes
+
+- ctx-core: ^5.18.4 -> ^5.18.5
+
 ## 10.0.77
 
 ### Patch Changes
