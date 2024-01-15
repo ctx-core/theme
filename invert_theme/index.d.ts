@@ -1,5 +1,4 @@
-import type { be_sig_triple_T } from 'ctx-core/rmemo'
-import type { Ctx } from 'ctx-core/all'
+import type { be_sig_triple_T, Ctx } from 'ctx-core/rmemo'
 export declare const [
 	invert_theme$_,
 	invert_theme_,
