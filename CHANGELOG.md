@@ -1,5 +1,12 @@
 # @ctx-core/theme
 
+## 10.0.123
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@6.0.0
+
 ## 10.0.122
 
 ### Patch Changes
