@@ -1,5 +1,13 @@
 # @ctx-core/theme
 
+## 10.0.149
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 10.0.148
 
 ### Patch Changes
